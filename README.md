@@ -5,9 +5,9 @@ title: Fall 2024 Data Science Project
 
 # Fall 2024 Data Science Project
 
-**Authors:** [Your Name(s)]  
-**Course:** [Course Name]  
-**Date:** [Date]
+**Authors:** [Kongkun Chen, Richard]  
+**Course:** [CMSC320]  
+**Date:** [Dec 3, 2025]
 
 ---
 
@@ -27,7 +27,7 @@ title: Fall 2024 Data Science Project
 
 | Member Name | Sections (A-H) | Contribution Summary |
 | :--- | :--- | :--- |
-| **[Name 1]** | [e.g., A, B, C] | [Summary of work...] |
+| **[Name 1]** | [C, D, E, F] | [] |
 | **[Name 2]** | [e.g., D, E, F] | [Summary of work...] |
 
 ---
@@ -35,7 +35,8 @@ title: Fall 2024 Data Science Project
 ## 2. Introduction
 *The introduction should motivate your work: what is your topic? What question(s) are you trying to answer with your analysis? Why is answering those questions important?*
 
-[Replace this text with your introduction paragraph.]
+
+A secure, affordable house is a typical goal that people have in their lives. Many people would make monthly deposits to their savings account or get loans from the bank to buy a house so that they have a place of comfort. California is well known for its contributions to the country's economy, its technology industry, high income, and its beautiful scenery across the coast. Furthermore, its house price is also pretty high. Thus, this leads us to question, can we determine the median house value of a block based on the location and socioeconomic factors of income and age? This question is particularly useful for real estate investors to find undervalued properties and for people who are plan to purchase a house in CA to gain a better understanding of the affordability. 
 
 ---
 
